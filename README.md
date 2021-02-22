@@ -22,7 +22,7 @@ Pattern of inappropriate social contact, such as requesting/assuming inappropria
 Continued one-on-one communication after requests to cease.  
 Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.  
 Publication of non-harassing private communication.  
-The RStudio Enterprise Meetup Group prioritizes marginalized people's safety over privileged people's comfort. The organizers will not act on complaints regarding:
+The RStudio Enterprise Meetup Group prioritizes marginalized people's safety over privileged people's comfort. The organizers will not act on complaints regarding:  
 
 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'. Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you." Communicating in a 'tone' you don't find congenial. Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.  
 
