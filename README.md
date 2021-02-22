@@ -5,7 +5,7 @@ The RStudio Enterprise Meetup Group is dedicated to providing a harassment-free 
 
 This code of conduct applies to all RStudio Enterprise Meetup Group spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the organizers.
 
-Harassment includes:
+Harassment includes:  
 Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.  
 Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.  
 Deliberate misgendering or use of 'dead' or rejected names.  
