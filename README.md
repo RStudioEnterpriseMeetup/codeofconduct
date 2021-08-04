@@ -27,9 +27,7 @@ The RStudio Enterprise Meetup Group prioritizes marginalized people's safety ove
 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'. Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you." Communicating in a 'tone' you don't find congenial. Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.  
 
 REPORTING. 
-If you are being harassed by a member/guest/participant of/at any event involving the Greater Boston useR Group, notice that someone else is being harassed, or have any other concerns, please contact the organizers. You may contact the group account or any of the individual organizers:
-
-RStudio Enterprise Meetup Group: RStudioEnterpriseMeetup [at] gmail [dot] com. Rachael Dempsey: rachael [at] rstudio [dot] com. (will work with the group to designate another two people as well).
+If you are being harassed by a member/guest/participant of/at any event involving the RStudio Enterprise Meetup Group, notice that someone else is being harassed, or have any other concerns, please contact the organizers. You may contact codeofconduct [at] rstudio.com.
 
 Local incidences will be handled together with the local organizers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
